@@ -1,1 +1,2 @@
 1.today is xx ,i add a work log to github.
+2.today is yy, i find a new way to solve the worst problem!
