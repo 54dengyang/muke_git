@@ -1,3 +1,4 @@
 1.today is xx ,i add a work log to github.
 2.today is yy, i find a new way to solve the worst problem!
 3.today other friends do not go to work,i am the only one boy in the work!But xiaoming was ill today,i did not go to work!
+4.we solve the bug!
